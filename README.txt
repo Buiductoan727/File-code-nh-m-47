@@ -1,0 +1,1 @@
+Để chơi game Minesweeper của Nhóm 47 bạn hãy mở 3 file haz.cpp, scd.cpp và h.cpp trong visual studio rồi nhấn "Local Windows Debugger", sau đó nhấn phóng to màn hình và nhập YES và OK để vào giao diện chính của game
