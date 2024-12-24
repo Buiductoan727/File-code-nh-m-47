@@ -1,0 +1,36 @@
+﻿#pragma once
+// thiết kế game
+void thietKe();
+void veTrangThai(short trangthai, short SMode, short SIndex);
+void veMenu(short SIndex);
+void veCapDoChoi(short SIndex);
+void taoMang2chieuDong();
+void xoaMang2chieuDong();
+void khoitao(short SDong, short SCot, short SSoBom);
+void veO(short SX, short SY, short SKieu);
+void veBang();
+void randomBomb();
+void xuatBom();
+void xuLySuKien();
+void thang();
+void thua();
+void XacNhan();
+void veThongBao();
+void thongtin();
+void TextColor(int x);
+void gotoxy(int x, int y);
+void Time(int total_time);
+void luuGame();
+void taiGame();
+void Diem();
+void luuDiemGame();
+void taiDiemGame();
+void luuThoiGianChoi();
+void taiThoiGianchoi();
+void Time3();
+void Time4();
+void Time5();
+void luuThoiGianChoi4();
+void taiThoiGianchoi4();
+void luuThoiGianChoi5();
+void taiThoiGianchoi5();
